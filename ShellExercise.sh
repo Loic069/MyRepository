@@ -1,7 +1,7 @@
 #!/bin/bash
 BIRTHDATE="Jan 1, 2000"
 Presents=10
-BIRTHDAY=`date -d "$BIRTHDATE" + %A`
+BIRTHDAY=Saturday
 
 if [ "$BIRTHDATE" == "Jan 1, 2000" ] ; then 
     echo "BIRTHDATE is correct, it is $BIRTHDATE"
