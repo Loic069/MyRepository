@@ -3,8 +3,6 @@ for arg in sys.argv:
     print(arg)
     
 
-
-
 marches = int(arg)       
 escalier = "#"
 espaces = marches 
