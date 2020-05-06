@@ -3,10 +3,10 @@
 This folder contains some exercises that I had to make in the program I am actually following. 
 
 1st : Stairs.py => It consists to input a integer number and then a stairs appairs like this : ( with the number 4)
-   #
-  ##
- ###
-####
+"   #
+   ##
+  ###
+ #### "
 
 2nd : Uppercase.py => It consists of transforming a string that we put as input into one capital letter out of two :
 for example with the string "Hello World" : 
